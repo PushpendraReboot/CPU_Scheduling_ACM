@@ -67,3 +67,5 @@ Selects the process with the shortest remaining burst time.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+REFERENCES WHICH I USED WERE PROVIDED IN THE ACM PROBLEM STATEMENT LIKE NESO ACADEMY TUTORIAL AND A LINUX IMPLEMENTATION BOOK.
