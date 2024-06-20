@@ -36,9 +36,13 @@ jQuery
 **Usage**
 
 Select CPU Algorithm: Choose a CPU scheduling algorithm from the list of radio buttons.
+
 Enter Process Details: Input the arrival time and burst time for each process. Optionally, enter priority if the Priority Scheduling algorithm is selected.
+
 Add/Remove Processes: Use the "Add a Row +" button to add new processes and the "Delete a Row -" button to remove selected processes.
+
 Execute: Click the "Execute" button to run the selected scheduling algorithm.
+
 View Results: The table will display the process execution order and relevant metrics. The Gantt chart below the table will visually represent the scheduling process.
 
 **Scheduling Algorithms**
